@@ -1,5 +1,6 @@
 # Traffic-Model
-CMPT419 Predictive Analysis of Traffic Congestion in New York City
+Predictive Analysis of Traffic Congestion in New York City
+[Traffic Congestion - Predictive Analysis Report](https://drive.google.com/file/d/1SVdhQwlwLd6-ig5ymF7pqaolIsLxyzg7/view?usp=sharing)
 
 Note: Files provided in this repository are  subsets of the original datasets 'file_path' fields throughout code refer to the complete datasets. Example files were provided for the purpose of providing structure and a means of demonstration. Hyperlinks for each dataset's original source can be found below. 
 
